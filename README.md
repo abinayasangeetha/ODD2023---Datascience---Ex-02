@@ -99,4 +99,4 @@ sns.boxplot(y='weight',data=weight_new)
 
 
 ### Result:
-     Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
+Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
