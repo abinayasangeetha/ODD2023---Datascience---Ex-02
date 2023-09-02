@@ -92,15 +92,11 @@ sns.boxplot(y='weight',data=weight_new)
 ```
 ### Output:
 ##### bhp.csv:
-<img height=30% width=70% src="![bhp,1](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/29a8d622-c04b-4153-ad65-e435ab905a8a)">
-<img height=20% width=49% src=" 
-<img height=30% width=49% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/6ab44ad1-3d24-49ac-8ed8-0a873ee9094c"><img height=30% width=49% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/699f1ddd-dfb7-4d58-abd5-69614106d9d4">
+
 
 ##### weight_height.csv:
-<img height=30% width=60% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/ea846d57-a472-4b28-8d0a-3c405d80f8e0"><img height=30% width=38% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/beead9e7-e4bc-4431-a536-bacdb947e6b6">  
 
-<img height=30% width=48% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/952f228c-8518-4f91-b966-fda9215eb959"><img height=30% width=48% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/35fbb5b8-69b9-4592-9685-d81d4cb0f844">  
 
-<img height=30% width=48% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/3606e325-b846-412f-b0c2-e56d74b16427"><img height=30% width=48% src="https://github.com/ROHITJAIND/Ex-02_Outlier-Detection/assets/118707073/14b3b742-5bfe-47c2-954b-7ee7315c6848">  
 
 ### Result:
+     Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
