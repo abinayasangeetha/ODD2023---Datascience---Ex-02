@@ -91,7 +91,7 @@ weight_new=df[((df['weight']>=weight_low)&(df['weight']<=weight_high))]
 sns.boxplot(y='weight',data=weight_new)
 ```
 ### Output:
-##### bhp.csv:
+## bhp.csv:
 
 <img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/5768615e-246e-4320-8f09-aa5765346efa">
 
@@ -101,7 +101,7 @@ sns.boxplot(y='weight',data=weight_new)
 
 <img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/c29237f2-9267-432c-84c4-6362f1d148af">
 
-##### weight_height.csv:
+## weight_height.csv:
 
 <img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/b1382ef8-6c0e-4484-ae5f-00847ea61599">
 
