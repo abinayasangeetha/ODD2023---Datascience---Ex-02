@@ -95,11 +95,11 @@ sns.boxplot(y='weight',data=weight_new)
 
 <img height=30% width=70% src="![1](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/5768615e-246e-4320-8f09-aa5765346efa)">
 
-<img height=30% width=70% src="![2](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/3bdef95e-fae0-47c1-b7b3-68f79bcceb30)
+<img height=30% width=70% src="![2](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/3bdef95e-fae0-47c1-b7b3-68f79bcceb30)">
 
-<img height=30% width=70% src="![3](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/6409d819-3af9-4a82-87fb-e9b92af337d1)
+<img height=30% width=70% src="![3](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/6409d819-3af9-4a82-87fb-e9b92af337d1)">
 
-<img height=30% width=70% src="![4](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/c29237f2-9267-432c-84c4-6362f1d148af)
+<img height=30% width=70% src="![4](https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/c29237f2-9267-432c-84c4-6362f1d148af)">
 
 ##### weight_height.csv:
 
